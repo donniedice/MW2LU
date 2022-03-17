@@ -3,6 +3,6 @@
 ## Interface-BCC: 20503
 ## Title:|cffffffffModern Warfare 2|r Level Up!
 ## Author: DonnieDice
-## Version: 1.0.1a
+## Version: 1.0.2
 ## Notes: Grats!
 main.lua
