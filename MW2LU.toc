@@ -1,6 +1,6 @@
-## Interface: 100000
-## Version: 1.0.5
-## Title:|cffffffffModern Warfare 2|r Level Up!
+## Interface: 100002
+## Version: 1.0.6
+## Title:|cff4f4f4fModern Warfare 2|r Level Up!
 ## Author: DonnieDice
 ## Notes: Grats!
 
